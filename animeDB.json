@@ -1,0 +1,228 @@
+{
+    "animesList": [
+        {
+           "id":  1,
+           "name": "CodeGeass",
+           "author": "Hiroshi Morotomi",
+           "description": "",
+           "genre": "SciFi, Fantasy, War, Manipulation",
+           "rating": 5,
+           "movies": [
+                      {
+                        "numOfMovies": 3,
+                        "titles": "Leluiche Of The Rebellion, Leluiche Of The Return, CodeGeass Leluiche of The Reborn.",
+                        "playedInTheatres": "yes"
+                      }
+                   ],
+           "seasons": 3
+        },
+        {
+           "id":  2,
+           "name": "D.Gray Man",
+           "author": "Katsura Hoshino",
+           "description": "Alan Walker is a boy who is faited to fight the evil force at hand by the Evil Eral & his Akuma's",
+           "genre": "SuperNatural, Fantasy, Adventure, Struggle, Demonic",
+           "rating": 5,
+           "movies": [
+            {
+              "numOfMovies": 1,
+              "titles": "Alan Walker & Mana Before The Earl",
+              "playedInTheatres": "no"
+            }
+         ],
+           "seasons": 3
+        },
+        {
+            "id":  3,
+            "name": "Gundam00",
+            "author": "Yosuke Kuroda",
+            "description": "Setsuna a boy is part of a military group tasked to fight the world govern powers at hand uncovering deception, lies and a list of deeds.",
+            "genre": "SciFi, Mecha, War, Manipulation",
+            "rating": 5,
+            "movies": [
+                {
+                  "numOfMovies": 1,
+                  "titles": "Awakening Of The Trail Blazer.",
+                  "playedInTheatres": "no"
+                }
+             ],
+            "seasons": 2
+        },
+        {
+            "id":  4,
+            "name": "One Piece",
+            "author": "Ichiro Oda",
+            "description": "A boy with devil fruit powers sails the see free as can be in the life of a piroate based adventurews.",
+            "genre": "Action, tale telling, Conflict, Struggle, War",
+            "rating": 5,
+            "movies":[
+                {
+                  "numOfMovies": 5,
+                  "titles": "Strong World, Stampede, Film Zed, Film Gold, Fild Red",
+                  "playedInTheatres": "yes"
+                }
+             ],
+            "seasons": 5
+        },
+        {
+            "id":  5,
+           "name": "Yuyu Hakusho",
+           "author": "Yoshihiro Togashi",
+           "description": "Teen boy with spiritual powers enters a whole new world of conflict and power struggle.",
+           "genre": "Action, Martial Arts, Conflict",
+           "rating": 5,
+           "movies": [
+                       {
+                          "numOfMovies": 1,
+                          "titles": "Human Vs Demon Tournamanet",
+                          "playedInTheatres": "no"
+                       }
+                    ],
+                       "seasons": 3
+        },
+        {
+            "id":  6,
+            "name": "Hunter-Hunter",
+            "author": "Yoshihiro Togashi",
+            "description": "Boyv travels in serach of his father who idsappeared when young to find himself through a jopurney of experiences and growth withing martial arts.",
+            "genre": "Action, Fantasy, COnflict, Adventure, Progression",
+            "rating": 5,
+            "movies": [
+                {
+                  "numOfMovies": 1,
+                  "titles": "Journey into the Blue",
+                  "playedInTheatres": "no"
+                }
+             ],
+            "seasons": 3
+         },
+         {
+            "id":  7,
+            "name": "Bleach",
+            "author": "Tite Kubo",
+            "description": "Ichigo a highschool student enters a realm of spirits and therough the adventures learns about his true self.",
+            "genre": "SuperNatural, Fantasy, Adventure, Struggle, Demonic",
+            "rating": 5,
+            "movies": [
+                {
+                  "numOfMovies": 5,
+                  "titles": "memories of noone, arancer, zanpaktou, darker than black, thausand year blood war",
+                  "playedInTheatres": "yes"
+                }
+             ],
+            "seasons": 5
+         },
+         {
+             "id":  8,
+             "name": "Naruto",
+             "author": "Masashi Kishimoto",
+             "description": "Naruto is abandoned as a child due to being the demon fox host. Follow him on his journey to becoming Hokage & most trusted respected ninja.",
+             "genre": "Ninjas, Struggle, War, Conflict, Adventure",
+             "rating": 5,
+             "movies": [
+                {
+                  "numOfMovies": 4,
+                  "titles": "Attack Of The Demon Fox, Naruto ninja storm, Boruto, Okstuke",
+                  "playedInTheatres": "yes"
+                }
+             ],
+             "seasons": 3
+         },
+         {
+             "id":  9,
+             "name": "Demon Slayer",
+             "author": "Koyoharu Gotouge",
+             "description": "A boy Tanjiro becomes a demon slayer to avenge his familys death and to turn his sister back to human who was turned into a demon after a attack & survived.",
+             "genre": "Action, tale telling, Conflict, Struggle, Demonic, Demons",
+             "rating": 4,
+             "movies": [
+                {
+                  "numOfMovies": 1,
+                  "titles": "Kimet suno yiba",
+                  "playedInTheatres": "yes"
+                }
+             ],
+             "seasons": 3
+         },
+         {
+             "id":  10,
+            "name": "Dragon Ball",
+            "author": "Yoshihiro Togashi",
+            "description": "Goku continues master martial arts while new conflicts and challenges arise.",
+            "genre": "Action, Martial Arts, Conflict, super powers",
+            "rating": 3,
+            "movies": [
+                {
+                  "numOfMovies": 4,
+                  "titles": "DragonBall GT, Dragonball ReserectionF, Dragonball Super Broly, Dragonball Super Hero",
+                  "playedInTheatres": "yes"
+                }
+             ],
+            "seasons": 3
+         }
+    ],
+
+    "animesAuthor": [
+      {
+         "id":  1,
+         "seriesName": "Dragon Ball",
+         "author": "Yoshihiro Togashi",
+         "manga": "yes"
+      },
+      {
+         "id":  2,
+         "seriesName": "Demon Slayer",
+         "author": "Koyoharu Gotouge",
+         "manga": "yes"
+     },
+     {
+         "id":  3,
+         "seriesName": "Naruto",
+         "author": "Masashi Kishimoto",
+         "manga": "yes"
+     },
+     {
+         "id":  4,
+         "seriesName": "Bleach",
+         "author": "Tite Kubo",
+         "manga": "yes"
+     },
+     {
+         "id":  5,
+         "seriesName": "Hunter-Hunter",
+         "author": "Yoshihiro Togashi",
+         "manga": "yes"
+     },
+     {
+         "id":  6,
+         "seriesName": "Yuyu Hakusho",
+         "author": "Yoshihiro Togashi",
+         "manga": "yes"
+     },
+     {
+         "id":  7,
+         "seriesName": "One Piece",
+         "author": "Ichiro Oda",
+         "manga": "yes"
+     },
+     {
+         "id":  8,
+         "seriesName": "Gundam00",
+         "author": "Yosuke Kuroda",
+         "manga": "no"
+     },
+     {
+         "id":  9,
+         "seriesName": "D.Gray Man",
+         "author": "Katsura Hoshino",
+         "manga": "yes"
+     },
+     {
+         "id":  10,
+         "seriesName": "CodeGeass",
+         "author": "Hiroshi Morotomi",
+         "manga": "yes"
+     }
+
+    ]
+}
